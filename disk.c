@@ -54,7 +54,6 @@ int open_disk(char *filename)
     return -1;
   }
   
-  int fd;
   if((fd = open(filename, O_RDWR)) < 0)
   {
     printf("Failed to open disk (open_disk)\n");
