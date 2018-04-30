@@ -3,6 +3,7 @@
 //Project 4 : Simple File System - Virtual Disk
 
 #include "disk.h"
+#include "sfs.h"
 
 /*----------------------------------------------------------------------------------------------*/
 int create_disk(char *filename, size_t nbytes)

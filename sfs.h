@@ -1,7 +1,7 @@
 //Author: Chance Ball
-//CS4348.501 Project 4
-//Header file for sfs.c
 //Date: 4/29/18
+//Project 4 : Simple File System - Simple File System
+//Header file for sfs.c
 
 #ifndef SFS_H_
 #define SFS_H_
@@ -15,7 +15,6 @@
 #define FNAME_LENGTH 16
 
 //My defines
-#define MAX_DISKNUM 3
 #define FIRST_BLOCK 596
 
 //Structure for a directory, dir

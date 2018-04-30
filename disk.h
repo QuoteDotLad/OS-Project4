@@ -1,3 +1,8 @@
+//Author: Chance Ball
+//Date: 4/11/18
+//Project 4 : Simple File System - Virtual Disk
+//Header file for disk.c
+
 #ifndef _DISK_H_
 #define _DISK_H_
 

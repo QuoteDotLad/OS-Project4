@@ -1,3 +1,7 @@
+//Author: Chance Ball
+//Date: 4/29/18
+//Project 4 : Simple File System - Simple File System
+
 #include "disk.h"
 #include "sfs.h"
 
